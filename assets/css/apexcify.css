@@ -636,6 +636,7 @@ welcome
   height: 100vh;
   min-height: 793px;
   background-image: url(../images/678.jpg);
+  color: inherit;
   background-repeat: no-repeat;
   background-size: 60%;
   background-position: right top;
